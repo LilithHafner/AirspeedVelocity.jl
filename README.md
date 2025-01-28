@@ -1,4 +1,4 @@
-# AirspeedVelocity.jl
+# Fork of AirspeedVelocity.jl; please use https://github.com/MilesCranmer/AirspeedVelocity.jl
 
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://MilesCranmer.github.io/AirspeedVelocity.jl/stable/)
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://MilesCranmer.github.io/AirspeedVelocity.jl/dev/)
